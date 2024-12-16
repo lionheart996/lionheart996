@@ -54,6 +54,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zefir-kul
 
 | Courses                  		  | Certificates |
 |--------------------------		  |--------------| 
+| [6. JS Front-End](#https://softuni.bg/certificates/details/232286/af7bf46c) | 	👉 ✅ 📃 |
 | [5. HTML & CSS](https://softuni.bg/certificates/details/228517/36731e14)  | 	👉 ✅ 📃 |
 | [4. PostgreSQL](https://softuni.bg/certificates/details/217002/5d3f36a2)  	  | 	👉 ✅ 📃 |
 | [3. Python OOP](https://softuni.bg/certificates/details/213290/f051e80d)       		  | 	👉 ✅ 📃 |
