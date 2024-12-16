@@ -52,12 +52,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zefir-kul
 - Sofia University St. Kliment Ohridski** (2015 - 2019)  
   Bachelor’s degree in Engineering Physics.
 
-| Courses                  		  | Certificates |
-|--------------------------		  |--------------| 
-| [6. JS Front-End](#https://softuni.bg/certificates/details/232286/af7bf46c) | 	👉 ✅ 📃 |
-| [5. HTML & CSS](https://softuni.bg/certificates/details/228517/36731e14)  | 	👉 ✅ 📃 |
-| [4. PostgreSQL](https://softuni.bg/certificates/details/217002/5d3f36a2)  	  | 	👉 ✅ 📃 |
-| [3. Python OOP](https://softuni.bg/certificates/details/213290/f051e80d)       		  | 	👉 ✅ 📃 |
-| [2. Python Advanced](https://softuni.bg/certificates/details/190246/88d1c801)			| 	👉 ✅ 📃 |
-| [1. Programming Fundamentals with Python](https://softuni.bg/certificates/details/179274/c1f0fbf2)		| 	👉 ✅ 📃 |
-| [0. Python Basics](https://softuni.bg/certificates/details/170654/c870695f)   			| 	👉 ✅ 📃 |
+| Courses                                      | Certificates |
+|---------------------------------------------|--------------| 
+| [6. JS Front-End](https://softuni.bg/certificates/details/232286/af7bf46c) | 👉 ✅ 📃 |
+| [5. HTML & CSS](https://softuni.bg/certificates/details/228517/36731e14)   | 👉 ✅ 📃 |
+| [4. PostgreSQL](https://softuni.bg/certificates/details/217002/5d3f36a2)   | 👉 ✅ 📃 |
+| [3. Python OOP](https://softuni.bg/certificates/details/213290/f051e80d)   | 👉 ✅ 📃 |
+| [2. Python Advanced](https://softuni.bg/certificates/details/190246/88d1c801) | 👉 ✅ 📃 |
+| [1. Programming Fundamentals with Python](https://softuni.bg/certificates/details/179274/c1f0fbf2) | 👉 ✅ 📃 |
+| [0. Python Basics](https://softuni.bg/certificates/details/170654/c870695f) | 👉 ✅ 📃 |
+
