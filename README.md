@@ -32,10 +32,14 @@ Technologies:
 	- CSS3 🎛️
 
 Soft Skills:
-	- Motivation 🚀
-	- Teamwork 🤝
-	- Analysis 🔍
-	- Innovation 💡
+
+Self-Driven & Goal-Oriented 🚀 – I thrive on challenges and push myself to exceed expectations.
+
+Collaborative Problem-Solver 🤝 – I don’t just work in teams; I elevate them by fostering synergy and open communication.
+
+Analytical Mindset 🔍 – I break down complex problems, find patterns, and craft effective solutions.
+
+Creative Innovator 💡 – I think outside the box, embracing new ideas to drive progress and improvement.
 
 🎯 Hobbies:
   - ♟️ Playing Chess
